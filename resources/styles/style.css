@@ -14,7 +14,9 @@ header {
     line-height: 50px;
     background-color: #eee;
 }
-
+h1{
+	color:white ;
+}
 header * {
     display: inline;
     height: 50px;
@@ -106,7 +108,7 @@ header a {
 /* Add everything below here */
 
 #hero {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('../images/coderprofile.jpg');
+    background-image: url('../images/coderprofile.jpg');
 }
 
 

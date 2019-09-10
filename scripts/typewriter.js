@@ -1,7 +1,7 @@
 // List of sentences
 var _CONTENT = [ 
 	"We become what we think about...", 
-	"Winning isn’t everything,but wanting to win is...", 
+	"Winning isn\â€™t everything,but wanting to win is...", 
 	"Either you run the day, or the day runs you", 
 	"Fall seven times and stand up eight",
 	"Everything has beauty, but not everyone can see"
